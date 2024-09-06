@@ -1,0 +1,2 @@
+# Project Description
+This project involves building a GraphQL server using Apollo Server, with Redis for caching and MongoDB for data storage, utilizing two collections: authors and books. The front-end application connects to the server using Apollo Client and manages state with Redux. Queries and mutations from a previous lab are integrated to demonstrate full CRUD functionality within the GraphQL API.
